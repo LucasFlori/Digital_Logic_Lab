@@ -11,6 +11,7 @@ Some useful resources:
   - [Git manual](https://git-scm.com/doc)
   - [Git cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
   - [Git koans](http://stevelosh.com/blog/2013/04/git-koans/)
+  - [Github markdown](https://guides.github.com/features/mastering-markdown/)
   
 ## Assignment
 
