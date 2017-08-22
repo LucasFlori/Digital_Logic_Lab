@@ -9,7 +9,7 @@ All the details will be discussed in the lab session.
 
 ## Assignment
 
-  1. Finish this document, filling all the missing part.
+  1. Finish this document, fill up all the missing part.
   2. Answer all the question in the comment
   3. All members of the group must commit, i.e. I want to see all the members making meaningful changes
 
