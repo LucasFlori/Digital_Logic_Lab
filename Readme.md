@@ -1,4 +1,4 @@
-# Digital Logic Lab Fall 2017
+#Digital Logic Lab Fall 2017
 # Lab 01
 -----------------------------------------------------------
 
@@ -8,7 +8,7 @@
 -----------------------------------------------------------
 ## Git
 <!-- what is git? what does it do? -->
-![git](pics/git.2.14.1.svg
+![git](pics/git.2.14.1.svg)
 
 ## Git commands
 
