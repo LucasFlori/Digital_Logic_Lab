@@ -8,7 +8,7 @@
 -----------------------------------------------------------
 ## Git
 <!-- what is git? what does it do? -->
-![git](pics/git.2.14.1.svg)
+![git](pics/git.2.14.1.png)
 
 ## Git commands
 
