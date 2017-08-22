@@ -7,6 +7,11 @@
 In this lab, we will get ourselves familiar with git and github classroom tools.
 All the details will be discussed in the lab session.
 
+Some useful resources:
+  - [Git manual](https://git-scm.com/doc)
+  - [Git cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
+  - [Git koans](http://stevelosh.com/blog/2013/04/git-koans/)
+  
 ## Assignment
 
   1. Finish this document, fill up all the missing part.
