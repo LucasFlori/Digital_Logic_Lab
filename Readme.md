@@ -56,7 +56,6 @@ Some useful resources:
   
   - Set User information
 
-<!--  -->
 
   - Checking the status of the repository
 
@@ -69,6 +68,10 @@ Some useful resources:
   - Getting update from remote
 
   - Checking the logs
+  ```Bash
+  git log
+  git log --oneline --graph --decorate=auto --color
+  ```
 
 ## Assignment
 
