@@ -79,15 +79,19 @@ Some useful resources:
   2. All members of the group must commit, i.e. I want to see all the members making meaningful changes
 
   - what is git? what does it do?
+
 shell```
 It is computer program for managing code and sharing files. It helps manage and track changes to your code so you can collaborate with others.
 ```  
+  
   - why is user information important?
 
   - what is the difference between https and git url?
+
 shell```
 Skipped
 ```  
+
   - After you made a change to a file, in order to push that change to the remote repository what the steps you must perform? (List all the steps in order)
 shell```
 1. git status
