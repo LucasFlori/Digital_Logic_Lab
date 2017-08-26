@@ -83,7 +83,9 @@ Some useful resources:
 It is computer program for managing code and sharing files. It helps manage and track changes to your code so you can collaborate with others.
 ```
   - why is user information important?
-
+```Shell
+User information is important for acknowledging the edits made to code when collaborating with someone else in a project.
+```
   - what is the difference between https and git url?
 ```Shell
 Skipped 
@@ -92,8 +94,12 @@ Skipped
 ```Shell
 1. git status
 2. git add <file name>
-3. git commit
-4. git pull
-5. git push
+3. git commit -m “message”
+4. git push
 ```
   - After you are informed that there are some changes have been made, what are the steps you must follow in order get those changes? (List all the steps in order)
+```Shell
+1. git pull or git fetch
+2. git status
+3. git merge
+```
